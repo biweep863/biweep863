@@ -15,3 +15,13 @@ I am currently studying B.S. Data Science and Mathematics Engineering. I am inte
 #### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,nextjs,nodejs,react,html,css,mysql,arduino,docker,opencv,pytorch,tensorflow,ros,vscode)](https://skillicons.dev)
 
+## Github Stats
+[![trophy](https://github-profile-trophy.vercel.app/?username=biweep863&theme=radical&rank=-D,-C,-?&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+<div align="left">
+<a href="https://github.com/biweep863">
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=biweep863&theme=radical" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biweep863&theme=radical" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biweep863&theme=radical" height="180em" />
+<img align="left" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biweep863&theme=radical" height="180em" />
+</div>
